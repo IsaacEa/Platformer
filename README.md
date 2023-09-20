@@ -26,9 +26,11 @@ Code that controlls lifes and destruction of objects:
 
 
 Player respawn:
+
 ![playerrespawn](https://github.com/IsaacEa/Platformer/assets/145556558/8b98c4ae-7f8b-41a5-b375-9ab04d134ced)
 
 This is what manages the recollection of keys:
+
 ![keycollector](https://github.com/IsaacEa/Platformer/assets/145556558/9470b240-c1c6-48cb-8ead-a8aa3d36cc8b)
 
 
